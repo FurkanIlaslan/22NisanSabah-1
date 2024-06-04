@@ -1,0 +1,11 @@
+body{
+    background-color: bisque;
+}
+
+input::placeholder{
+    color: silver !important;
+}
+
+.icon{
+    cursor: pointer;
+}
